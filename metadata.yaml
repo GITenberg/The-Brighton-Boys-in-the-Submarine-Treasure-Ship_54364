@@ -1,0 +1,29 @@
+_repo: The-Brighton-Boys-in-the-Submarine-Treasure-Ship_54364
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hofstetter, W. A.
+    gutenberg_agent_id: '47842'
+    url: http://www.gutenberg.org/2009/agents/47842
+creator:
+  author:
+    agent_name: Driscoll, James R.
+    alias: Driscoll, Lieutenant James R.
+    gutenberg_agent_id: '4729'
+    url: http://www.gutenberg.org/2009/agents/4729
+description: ''
+gutenberg_issued: '2017-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcsh 'Submarines (Ships) -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Brighton Boys in the Submarine Treasure Ship
+url: http://www.gutenberg.org/ebooks/54364
